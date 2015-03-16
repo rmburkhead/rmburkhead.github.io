@@ -22,7 +22,7 @@ highlighter:    pygments
 # Handling Reading
 #safe:          see above
 #include:       []
-exclude:        [".gitignore", "nbproject"]
+exclude:        [".gitignore", "Gemfile*", "nbproject"]
 #keep_files:    [".git", ".svn"]
 #encoding:      "utf-8"
 #markdown_ext:  "markdown,mkdown,mkdn,mkd,md"
