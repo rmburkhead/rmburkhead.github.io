@@ -35,7 +35,8 @@ exclude:        [".gitignore", "Gemfile*", "nbproject"]
 
 # Plugins
 #whitelist: []
-#gems:      []
+gems:
+  - jekyll-sitemap
 
 # Conversion
 #markdown:    kramdown
